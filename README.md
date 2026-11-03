@@ -1,4 +1,4 @@
-### UPI-Transaction-Analysis-Interactive-Dashboard-
+### UPI-Transaction-Analysis-Interactive-Dashboard
 I developed an interactive UPI Transaction Analytics Dashboard using Advanced Microsoft Excel to analyze 502,887 UPI transactions worth ₹44.25 crore.
 ### Dataset used and my  project  link
 -<a href="https://drive.google.com/drive/folders/1f2IqRG2gaDJr5uUDPcEermoFSnLKYHxi?usp=sharing"> dataset  and project</a>
